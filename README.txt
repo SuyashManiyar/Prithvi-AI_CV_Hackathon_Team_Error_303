@@ -11,7 +11,7 @@ The files that start with the name Experimental are colab files for various Expe
 
 The Problem Statement-Detecting if a defect exists or not in a fabric cloth piece and Drawing a bounding boxes around the defects in the defected cloth piece.
 
-The file https://github.com/SuyashManiyar/Prithvi-AI_CV_Hackathon_Team_Error_303/blob/main/image_optimization.ipynb is used to combat the problem of losing information upon reducing the resolution of the image and for that purpose  AntiAliasing technique was used .
+The file [ https://github.com/SuyashManiyar/Prithvi-AI_CV_Hackathon_Team_Error_303/blob/main/image_optimization.ipynb ] [image_optimization] is used to combat the problem of losing information upon reducing the resolution of the image and for that purpose  AntiAliasing technique was used .
 
 
 The most important files to be looked at is https://github.com/SuyashManiyar/Prithvi-AI_CV_Hackathon_Team_Error_303/blob/main/BoundingBox_Final.ipynb because this file consists of the actual code using which the Final Bounding Box coordinates were calculated .
