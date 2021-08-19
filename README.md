@@ -3,9 +3,9 @@
 This Repository is a part of Submission of a Hackathon by Prithvi AI.
 Team : Error 303
 Team Members :
-[https://github.com/kgp01](Kshitij Parikh)
-[https://github.com/pukxukxex](Kshitij Singh)
-[https://github.com/SuyashManiyar](Maniyar Suyash)
+[https://github.com/kgp01](Kshitij_Parikh)
+[https://github.com/pukxukxex](Kshitij_Singh)
+[https://github.com/SuyashManiyar](Maniyar_Suyash)
 ***************************************************************************************************************************************
 Important Note:
 
